@@ -8,8 +8,6 @@ Seja bem-vindo ao meu perfil!
    </p><hr>
    
 </h1>
-![ClipWindowsGIF](https://user-images.githubusercontent.com/62489007/172071665-30528055-9ba9-426f-a157-c23d2ba9ed43.gif)
-
 
 - 🔭 Atualmente trabalhando com Front-end
 - 🌱 Estudando Angular, JavaScript e Java

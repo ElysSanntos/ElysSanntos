@@ -38,6 +38,6 @@
 </div>
     
     <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+      <p>Feito com :heart: e JavaScript.</p>
+      <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+    </div>

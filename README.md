@@ -1,6 +1,6 @@
 <h1 align="center"
     <p>
-Hi devs! Sejam bem-vindos ao meu perfil! 👋
+Seja bem-vindo ao meu perfil!
 <br>
 <br>
 <p align="center">Visitantes:</p>

@@ -1,10 +1,11 @@
 <h1 align="center"
-    <p> Seja bem-vindo ao meu perfil!</P>
-            <br>
+    <p> Seja bem-vindo ao meu perfil!
+<br>
+<br>
     <p align="center">Visitantes:</p>
-    <p align="center">
-        <img align="center"src="https://profile-counter.glitch.me/ElysSanntos/count.svg"/>
-    </p>
+    <p align="center"><img align="center"src="https://profile-counter.glitch.me/ElysSanntos/count.svg"/></p>
+       </p><hr>
+   
 </h1>
 
 - 🔭 Atualmente trabalhando com Front-end
@@ -34,6 +35,5 @@
 <a href = "mailto:elys.santos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/elyssanntos07/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-     [//]: # "![Snake animation](https://github.com/ElysSanntos/ElysSanntos/blob/output/github-contribution-grid-snake.svg"
-</div>
+  
  

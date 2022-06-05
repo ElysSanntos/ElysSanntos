@@ -1,4 +1,13 @@
-### Olá, bem vindo(a) ao meu GitHub.👋
+<h1 align="center"
+    <p>
+Hi devs! Sejam bem-vindos ao meu perfil! 👋
+<br>
+<br>
+<p align="center">Visitantes:</p>
+<p align="center"><img align="center"src="https://profile-counter.glitch.me/ElysSanntos/count.svg"/></p>
+   </p><hr>
+   
+</h1>
 ![ClipWindowsGIF](https://user-images.githubusercontent.com/62489007/172071665-30528055-9ba9-426f-a157-c23d2ba9ed43.gif)
 
 

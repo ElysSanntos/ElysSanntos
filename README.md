@@ -8,10 +8,6 @@
    
 </h1>
 
-- 🔭 Atualmente trabalhando com Front-end
-- 🌱 Estudando Angular, JavaScript e Java
-- 📫 Contate-me no e-mail: elys.santos@hotmail.com
-
 <div align="center">
   <a href="https://github.com/ElysSanntos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElysSanntos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

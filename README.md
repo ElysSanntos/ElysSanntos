@@ -31,4 +31,13 @@
 <a href = "mailto:elys.santos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/elyssanntos07/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
- 
+ <div align="center">
+  
+  ![Snake animation](https://github.com/ElysSanntos/ElysSanntos/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+    
+    <div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>

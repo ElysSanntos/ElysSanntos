@@ -4,7 +4,7 @@
 <br>
     <p align="center">Visitantes:</p>
     <p align="center"><img align="center"src="https://profile-counter.glitch.me/ElysSanntos/count.svg"/></p>
-       </p><hr>
+       </p>
    
 </h1>
 

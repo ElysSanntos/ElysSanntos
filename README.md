@@ -10,7 +10,12 @@
 <br>
     <p align="center" color=A020F0>Visitantes:</p>
     <p align="center"><img align="center"src="https://profile-counter.glitch.me/ElysSanntos/count.svg"/></p>
-   
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=takepaty&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=FF1493&bg_color=0d1117" alt="Patrícia Takehara github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takepaty&layout=compact&hide_border=true&title_color=FF00FF&text_color=FF1493&bg_color=0d1117" />
+</div>
+
 <div align="center">
   <a href="https://github.com/ElysSanntos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?                      username=ElysSanntos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

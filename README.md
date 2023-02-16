@@ -10,7 +10,6 @@
 <br>
     <p align="center" color=A020F0>Visitantes:</p>
     <p align="center"><img align="center"src="https://profile-counter.glitch.me/ElysSanntos/count.svg"/></p>
-       </p>
    
 <div align="center" color=A020F0>
   <a href="https://github.com/ElysSanntos">

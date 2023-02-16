@@ -1,19 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8A2BE2&height=120&section=header"/>
 
 <h1 align="center"
     <p> Seja bem-vindo ao meu perfil!</p>
 </h1>
 <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elys+Sanntos;I+from+Campinas,+SP;I+study+systems+development+at+COTUCA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elys+Sanntos;I+from+Campinas,+SP;I+study+systems+development+at+COTUCA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <br>
-    <p align="center">Visitantes:</p>
+    <p align="center" color=#8A2BE2>Visitantes:</p>
     <p align="center"><img align="center"src="https://profile-counter.glitch.me/ElysSanntos/count.svg"/></p>
        </p>
    
-<div align="center">
+<div align="center" color=#8A2BE2>
   <a href="https://github.com/ElysSanntos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElysSanntos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElysSanntos&layout=compact&langs_count=7&theme=dracula"/>

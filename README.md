@@ -5,11 +5,10 @@
 </h1>
 <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elys+Sanntos;I+from+Campinas,+SP;I+study+systems+development+at+COTUCA;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Elys+Sanntos;I+from+Campinas,+SP;I+study+systems+development+at+COTUCA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
-    <p align="center" color=#8A2BE2>Visitantes:</p>
+    <p align="center" color=A020F0>Visitantes:</p>
     <p align="center"><img align="center"src="https://profile-counter.glitch.me/ElysSanntos/count.svg"/></p>
        </p>
    

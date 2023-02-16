@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9400D3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#A020F0&height=120&section=header"/>
 
 <h1 align="center" color="#9400D3"	
     <p> Seja bem-vindo ao meu perfil!</p>
@@ -12,7 +12,7 @@
     <p align="center"><img align="center"src="https://profile-counter.glitch.me/ElysSanntos/count.svg"/></p>
        </p>
    
-<div align="center" color=#8A2BE2>
+<div align="center" color=A020F0>
   <a href="https://github.com/ElysSanntos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElysSanntos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElysSanntos&layout=compact&langs_count=7&theme=dracula"/>

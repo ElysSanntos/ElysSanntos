@@ -11,7 +11,7 @@
     <p align="center" color=A020F0>Visitantes:</p>
     <p align="center"><img align="center"src="https://profile-counter.glitch.me/ElysSanntos/count.svg"/></p>
    
-<div align="center" color=#A020F0>
+<div align="center">
   <a href="https://github.com/ElysSanntos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?                      username=ElysSanntos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElysSanntos&layout=compact&langs_count=7&theme=dracula"/>

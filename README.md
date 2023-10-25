@@ -36,6 +36,11 @@
     <a href="https://discord.gg/r5mV86d6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-  badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href = "mailto:elys.santos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/elyssanntos07/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+    <div  class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="elyssanntos07" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/elyssanntos07?trk=profile-badge">Elisângela Santos
+    </a></div>
+              
     
 ![Snake animation](https://github.com/ElysSanntos/ElysSanntos/blob/output/github-contribution-grid-snake.svg)
        <div align="center">

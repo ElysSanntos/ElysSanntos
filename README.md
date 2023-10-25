@@ -35,7 +35,7 @@
     <a href="https://www.youtube.com/channel/UCCtcxOkKgNdB8ivXITnLs2Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/r5mV86d6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-  badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href = "mailto:elys.santos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-    <a href="https://br.linkedin.com/in/elyssanntos07?trk=profile-badge"  data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="elyssanntos07" data-version="v1"class="badge-base__link LI-simple-link" >Elisângela Santos
+    <a href="https://br.linkedin.com/in/elyssanntos07?trk=profile-badge"  data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="elyssanntos07" data-version="v1"class="badge-base__link LI-simple-link" >
     </a>
     
 ![Snake animation](https://github.com/ElysSanntos/ElysSanntos/blob/output/github-contribution-grid-snake.svg)

@@ -1,20 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
-
- <div style="order: 1; margin: 0 0 0 0; text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=60&pause=2000&color=A020F0&center=true&multiline=true&repeat=false&width=800&height=200&lines=+;
-    Hello+Word!;
-    Be+come."
-      alt='Boas vindas' />
-  </div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=60&pause=9999999999&color=A020F0&center=true&vCenter=true&width=800&height=200&&lines=Hello+World!+👋;" alt="Typing SVG - boas vindas" /></a>
+  
   ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=25&pause=1000&color=7051F7&center=false&vCenter=false&random=false&width=435&lines=%22Uma+mente+que+se+abre+a+uma+nova+id%C3%A9ia%2C;jamais+voltar%C3%A1+ao+seu+tamanho+original.%22;Albert+Einstein" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=25&pause=9000&color=7051F7&center=false&vCenter=false&random=false&width=635&lines=%22Uma+mente+que+se+abre+a+uma+nova+id%C3%A9ia%2C+jamais+voltar%C3%A1+ao+seu+tamanho+original.%22;Albert+Einstein" alt="Typing SVG" /></a>
    
 ###  
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=810BA7&random=false&width=435&lines=I'm+Front-end+developer.+;I+live+from+Campinas+-+SP+-+Brasil." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=4000&color=810BA7&random=false&width=835&lines=I'm+Front-end+developer.+I+live+from+Campinas+-+SP+-+Brasil." alt="Typing SVG" /></a>
 
 <br>
     <p align="center" >Visitantes:</p>
@@ -34,7 +28,7 @@
 <h3 align="center" color=Aquamarine>⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h3>
 <br>
 
-<div align="left">
+<div align="left" width=800>
   
   <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,md,css,node,npm,vscode,eclipse,postman,spring,idea,github,gitlab,karma,jasmine,docker,redhat,jenkins,figma,angular,typescript,discord,notion," height="65"  alt=" logos Linguagens-Frameworks-Ferramentas "  />
  
@@ -61,8 +55,7 @@
 
 ###
 
-<div align="center">
 
-        <p>Feito com :heart: e JavaScript.</p>
-        
-</div>
+ <h4 align="center">   Feito com :heart: e JavaScript.</h4>
+
+

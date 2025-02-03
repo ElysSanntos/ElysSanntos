@@ -8,7 +8,7 @@
    
 ###  
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=4000&color=810BA7&random=false&width=835&lines=I'm+Front-end+developer.+I+live+from+Campinas+-+SP+-+Brasil." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=4000&color=810BA7&random=false&width=835&lines=I'm+Front-end+developer.+I+live+from+Maringá-Pr+-+Brasil." alt="Typing SVG" /></a>
 
 <br>
     <p align="center" >Visitantes:</p>
@@ -21,7 +21,7 @@
 <div align="center">  
  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElysSanntos&layout=compact&hide_border=true&title_color=FF00FF&text_color=FF1493&bg_color=0d1117" />
 
-  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ElysSanntos&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=FF1493&bg_color=0d1117" alt="Elys Sanntos github stats" /> 
+  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ElysSanntos&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=FF1493&bg_color=0d1117" alt="Elis Santos github stats" /> 
  
 </div>
 
@@ -43,7 +43,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Elys_Sanntos-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/elyssanntos07) 
 
 
-[![WhatsApp](https://img.shields.io/badge/-+5519983596863-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5519983596863)
+[![WhatsApp](https://img.shields.io/badge/-+5544999652595-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5544999652595)
 
 </div>    
 

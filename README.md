@@ -43,7 +43,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Elys_Sanntos-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/elyssanntos07) 
 
 
-[![WhatsApp](https://img.shields.io/badge/-+5544999652595-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5544999652595)
+[![WhatsApp](https://img.shields.io/badge/Vamos Conversar?-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5544999652595)
 
 </div>    
 

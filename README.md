@@ -9,6 +9,19 @@
 ###  
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=4000&color=810BA7&random=false&width=835&lines=I'm+Front-end+developer.+I+live+from+Maringá-Pr+-+Brasil." alt="Typing SVG" /></a>
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
+
+  - 💬 Sou Elis, uma desenvolvedora focada em resolver problemas e criar soluções eficientes. Atualmente, estou no caminho para me tornar uma desenvolvedora full-stack, com experiência no desenvolvimento front-end utilizando **Angular**, **JavaScript**, **Node.js**, **CSS**, **HTML** e **TypeScript**. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para entregar resultados consistentes e de qualidade.
+
+  - ⚡ No meu tempo livre, gosto de ler livros sobre tecnologia e crescimento pessoal. Acredito que esse conhecimento ajuda a refinar minha visão de mundo e contribui para minha habilidade em resolver problemas de forma criativa e eficiente. Também gosto de assistir filmes e jogar, pois são atividades que me ajudam a relaxar e inspirar novas ideias para o meu trabalho.
+
+  - 💪 Sou movida pela **autonomia** e pela **iniciativa**. Gosto de desafios e estou sempre pronta para enfrentar novas oportunidades de aprendizado. No trabalho, sou assertiva e gosto de aplicar soluções práticas, focadas em resultados. Valorizo a colaboração e acredito que um bom trabalho em equipe é essencial para o sucesso de qualquer projeto.
+
+  - 💡 Acredito no aprendizado contínuo e na adaptação às mudanças. Cada dia é uma chance de crescer e aprimorar tanto minhas habilidades técnicas quanto interpessoais. Adoro equilibrar criatividade com lógica, encontrando soluções inovadoras para problemas complexos.
+</details>
+
 
 <br>
     <p align="center" >Visitantes:</p>
@@ -25,36 +38,53 @@
  
 </div>
 
-<h3 align="center" color=Aquamarine>⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h3>
-<br>
+## 🚀 Skills
 
-<div align="left" width=800>
-  
-  <img src="https://skillicons.dev/icons?i=javascript,bootstrap,html,md,css,node,npm,vscode,eclipse,postman,spring,idea,github,gitlab,karma,jasmine,docker,redhat,jenkins,figma,angular,typescript,discord,notion," height="65"  alt=" logos Linguagens-Frameworks-Ferramentas "  />
- 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+</p>
 
 ###
+
 <br>
-<h3 align="center">Let’s work together?</h3> 
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Elys_Sanntos-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/elyssanntos07) 
-
-
-[![WhatsApp](https://img.shields.io/badge/-+5544999652595-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5544999652595)
-
-</div>    
-
-###
-
-<h3>Desenvolvedora Web Front-End </h3>
 
 ![snake gif](https://github.com/ElysSanntos/ElysSanntos/blob/output/github-contribution-grid-snake.gif) 
 
 ###
+<p align="center">
+  <a href="https://www.linkedin.com/in/elyssanntos07" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=5544999652595" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:elys.santos@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
+
+
+###
 
  <h4 align="center">   Feito com :heart: e JavaScript.</h4>
 

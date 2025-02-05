@@ -1,14 +1,26 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=60&pause=9999999999&color=A020F0&center=true&vCenter=true&width=800&height=200&&lines=Hello+World!+👋;" alt="Typing SVG - boas vindas" /></a>
-  
-  ###
+<!-- Frase de Boas-vindas - digitação e depois fica estática -->
+<div style="display: flex; justify-content: center; align-items: center; height: 150px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=60&pause=1000&color=A020F0&center=true&vCenter=true&width=800&height=200&lines=Bem-vindo+ao+meu+perfil!+👋&repeat=false" alt="Frase de boas-vindas" />
+  </a>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=25&pause=9000&color=7051F7&center=false&vCenter=false&random=false&width=635&lines=%22Uma+mente+que+se+abre+a+uma+nova+id%C3%A9ia%2C+jamais+voltar%C3%A1+ao+seu+tamanho+original.%22;Albert+Einstein" alt="Typing SVG" /></a>
-   
-###  
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=4000&color=810BA7&random=false&width=835&lines=I'm+Front-end+developer.+I+live+from+Maringá-Pr+-+Brasil." alt="Typing SVG" /></a>
+<!-- Texto Impactante (Da esquerda para a direita, com movimento de digitação contínuo) -->
+<div style="text-align: center; margin-top: 40px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=810BA7&random=false&width=800&lines=Desenvolvedora+front-end+focada+em+inova%C3%A7%C3%A3o+e+impacto.&repeat=true" alt="Texto impactante sendo tipado" />
+  </a>
+</div>
+
+<!-- Citação de Albert Einstein - Digitação da direita para a esquerda, depois fica estática -->
+<div style="text-align: center; margin-top: 40px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=25&pause=1000&color=7051F7&random=false&width=800&lines=%22Uma+mente+que+se+abre+a+uma+nova+ideia%2C+jamais+voltar%C3%A1+ao+seu+tamanho+original.%22+-+Albert+Einstein&repeat=false&direction=rtl" alt="Citação Albert Einstein" />
+  </a>
+</div>
+
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Formato16_9.png" width="100%" alt="Elisverso — Tecnologia com Identidade">
+  <img src="assets/Formato 16_9.png" width="100%" alt="Elisverso — Tecnologia com Identidade">
 </p>
 
 <div align="center">
